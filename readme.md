@@ -4,7 +4,7 @@ June 2020
 Florian Knoll (florian.knoll@nyumc.org)
 -----------------------------------------------
 
-This package contains source code for most of the didactic examples in the image reconstruction chapter of the textbook Advanced Neuro MR Techniques and Applications. The following scripts recreate the reconstruction examples for the chapters partial Fourier imaging, parallel imaging with SENSE and GRAPPA, and Compressed Sensing. The training code for the machine learning chapter is available at: https://github.com/VLOGroup/mri-variationalnetwork, but the test set reconstruction results are provided for reference.
+This package contains source code for most of the didactic examples in the image reconstruction chapter of the textbook Advanced Neuro MR Techniques and Applications. The following scripts recreate the reconstruction examples for the chapters partial Fourier imaging, parallel imaging with SENSE and GRAPPA, and Compressed Sensing. The training code for the machine learning chapter is available at: https://github.com/VLOGroup/mri-variationalnetwork, and the test set reconstruction results are provided for reference.
 
 The data and pre-estimated coil sensitivity maps can be obtained via globus at the following location:
 Link: https://app.globus.org/file-manager?origin_id=15c7de28-a76b-11e9-821c-02b7a92d8e58&origin_path=%2F
